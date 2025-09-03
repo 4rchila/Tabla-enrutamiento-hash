@@ -1,0 +1,19 @@
+mini-proyecto-router-hash/
+│
+├── src/
+│   ├── main.py                # Punto de entrada del programa
+│   ├── hash_table.py          # Clase TablaHash (Integrante 1)
+│   ├── operations.py          # Funciones de búsqueda/eliminación (Integrante 2)
+│   ├── collision.py           # Manejo de colisiones, sondeo lineal (Integrante 3)
+│   └── simulation.py          # Simulación de paquetes (Integrante 4)
+│
+├── tests/
+│   ├── test_hash_table.py     # Pruebas unitarias para la tabla
+│   ├── test_operations.py     # Pruebas de agregar/buscar/eliminar
+│   └── test_collision.py      # Pruebas de colisiones
+│
+├── docs/
+│   └── README.md              # Explicación del proyecto, cómo correrlo
+│
+├── .gitignore                 # Ignorar __pycache__, etc.
+└── requirements.txt           # Dependencias (si las hubiera)
