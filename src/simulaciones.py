@@ -15,6 +15,7 @@ while detenerse == False:
         print("--- INICIALIZAR ENRUTAMIENTO DE IP'S ---")
         print("Se iniciará el enrutamiento de IPs.")
         # Por implementar.
+
         input("Presione cualquier tecla para continuar.")
 
     elif opcion == 2:
@@ -22,6 +23,7 @@ while detenerse == False:
         print("--- MOSTRAR DIRECCIONES IP INGRESADAS ---")
         print("A continuación se mostrarán las direcciones IP ingresadas.")
         # Por implementar.
+        
         input("Presione cualquier tecla para continuar.")
 
     elif opcion == 3:
