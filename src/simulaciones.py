@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 import os
 from hash_tabla import HashTable
 tablaRouter = HashTable()
@@ -38,4 +36,3 @@ while detenerse == False:
 
     else:
         input("Ingrese una opción válida.")
->>>>>>> Stashed changes
