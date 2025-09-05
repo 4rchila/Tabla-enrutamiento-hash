@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# Tabla-enrutamiento-hash
-Un mini proyecto para internalizar el funcionamiento de las tablas hash
-=======
 # Tablas de Enrutamiento Hash
 
 ## Índice
@@ -49,4 +45,3 @@ Al optar por esta opción, se cerrará el programa y la información se perderá
 - **Diego Estuardo Joachin Orozco**   | 1534924
 - **Pablo José Lorenzo Arrivillaga**  | 1530324
 - **Rodrigo Gabriel Pérez Vásquez**   | 1576224
->>>>>>> Stashed changes
